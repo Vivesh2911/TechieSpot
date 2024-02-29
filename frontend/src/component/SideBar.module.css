@@ -1,5 +1,5 @@
 .sidenav{
-    flex: 25%;
+    flex: 35%;
     box-shadow: 0px 0px 10px;
     height: 90vh;
     border-radius: 10px 0px 0px 0px;
@@ -7,7 +7,7 @@
 }
 .sidemenu{
     list-style: none;
-    padding: 2vh 2vw 10vh;
+    padding: 2vh 3vw 10vh;
     font-size: 1.5rem;
 }
 .courseItem{
